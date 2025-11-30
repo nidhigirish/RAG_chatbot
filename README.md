@@ -1,7 +1,6 @@
 # RAG Chatbot for HPE interview
 
-A powerful local RAG (Retrieval Augmented Generation) application that lets you chat with your PDF documents using Ollama and LangChain. This project includes a Jupyter notebook for experimentation.
+A powerful local RAG (Retrieval Augmented Generation) application that lets you chat with your PDF documents using Ollama and LangChain. This project includes a Jupyter notebook for setup and experimentation.
 
-## Local setup
-
-1. run: pip3 install -r requirements.txt
+The pipeline is described below:
+![RAG chatbot Pipeline](images/RAG%20chatbot%20pipeline.png)
